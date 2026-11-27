@@ -1,6 +1,6 @@
 # Hi, I'm Gregg Chen
 
-I help teams get from knowing about AI to using it in real work: agentic workflows, MCP connectors and agent skills, built in the open. Twenty-plus years in enterprise software, including SAP SuccessFactors.
+I help teams get from knowing about AI to using it in real work: agentic workflows, MCP connectors and agent skills, built in the open. Experienced in enterprise software go to market and solutioning.
 
 Notes, demos and the portfolio: [gcartifacts.com](https://gcartifacts.com) · [LinkedIn](https://www.linkedin.com/in/greggchen)
 
