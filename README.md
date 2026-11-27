@@ -4,7 +4,12 @@ I help teams get from knowing about AI to using it in real work: agentic workflo
 
 Notes, demos and the portfolio: [gcartifacts.com](https://gcartifacts.com) · [LinkedIn](https://www.linkedin.com/in/greggchen)
 
-## Three things I've built
+## Four things I've built
+
+**A second brain that captures, organises and recalls for me**
+Problem: saved links and past decisions piled up, and I couldn't recall the reasoning behind them.
+Build: I send a link plus a sentence of instructions from my phone, and an agent files a finished note into SiYuan. A nightly pipeline turns raw notes into typed, linked facts and compiles wiki pages from them, and a recall hook adds the relevant facts before my chief-of-staff agent answers. It runs on a mini PC at home, with Claude Code as architect and reviewer.
+Outcome: a new agent following my written spec filed a correct note on its first try, and in November 2026 I moved the whole back end to the home server with no router ports open. [Write-up](https://gist.github.com/greggchen308/4a7d4c11a23e09ac162bffdf86cbe04f) · [explainer video](https://github.com/greggchen308/learnings)
 
 **Yahoo Mail into my AI chief of staff**
 Problem: Yahoo was the one inbox my agent couldn't see, so a changed meeting or a request for a decision stayed invisible until I opened the mailbox myself.
@@ -28,4 +33,4 @@ Outcome: written for Claude Code, WorkBuddy and OpenClaw; the usage retrospectiv
 
 ## Working with
 
-Claude Code · ChatGPT Codex · MCP · n8n · agent skills (SKILL.md) · WorkBuddy · OpenClaw · Python · Node.js
+Claude Code · MCP · n8n · agent skills (SKILL.md) · WorkBuddy · OpenClaw · SiYuan · Python · Node.js
